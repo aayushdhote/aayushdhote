@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Aayush </h1>
-<h3 align="center">Passionate AI Builder | Data Explorer | ML Deployer </h3>
+<h3 align="center">A Passionate AI Builder | Data Explorer | ML Deployer </h3>
 
 <img align="right" alt="data science" width="400" src="https://www.aalpha.net/wp-content/uploads/2019/10/data-science-giphy.gif">
 

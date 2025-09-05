@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushdhote&label=Profile%20views&color=0e75b6&style=flat" alt="aayushdhote" /> </p>
 
-- 🔭 I’m currently working on **Python, EDA, ML Projects, NLP**
+- 🔭 I’m currently working on **Python, SQl, EDA, ML Projects, NLP**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning**
 
